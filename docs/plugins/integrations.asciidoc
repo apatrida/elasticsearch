@@ -72,6 +72,9 @@ releases 2.0 and later do not support rivers.
 * https://github.com/dadoonet/fscrawler[FS Crawler]:
   The File System (FS) crawler allows to index documents (PDF, Open Office...) from your local file system and over SSH. (by David Pilato)
 
+* https://github.com/kohesive/elasticsearch-data-import-handler[Kohesive - Elasticsearch Data Import handler]:
+  Import from CSV, Parquet, ORC, JDBC databases and other file formats on single machine or scale to a cluster with full power of Spark SQL including joins across data sources. 
+  
 [float]
 [[deployment]]
 === Deployment
